@@ -1,0 +1,6 @@
+@FrontEntWebApi_HostAddress = http://localhost:5247
+
+GET {{FrontEntWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
